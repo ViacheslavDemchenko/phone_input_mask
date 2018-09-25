@@ -1,1 +1,1 @@
-Simple phone input mask
+Phone input mask
